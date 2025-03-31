@@ -1,6 +1,6 @@
 	 
 
-![github-banner2](https://github.com/user-attachments/assets/0ef06347-87c9-4d3e-9907-8ee86037356b)
+
 
 # 💫 About Me:
 🛰️ I’m currently working on full-stack web projects to improve my skills in both frontend and backend development<br>🤝 I’m looking to collaborate on exciting software projects, especially web-based applications<br>🧠 I’m looking for help with building scalable systems and mastering best practices in software architecture<br>🌱 I’m currently learning Node.js, Express, React, and database management (SQL & NoSQL)<br>💬 Ask me about anything related to full-stack development, or my journey as a Computer Engineering student<br>⚡ Fun fact: I love turning coffee into code and learning new tech just for fun!
