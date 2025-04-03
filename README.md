@@ -1,5 +1,4 @@
-
-![Black Minimalist Corporate Staff Profile LinkedIn Banner](https://github.com/user-attachments/assets/7dd7e02e-9bd4-43b3-ba00-a5dadb00d2ec)
+![banner2linkedin](https://github.com/user-attachments/assets/ec201f01-ac7a-448c-8676-acf44e6bc701)
 
 Selam, Ben Hüseyin Mehmetoğlu!
 <br><br>
