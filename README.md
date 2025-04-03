@@ -1,4 +1,6 @@
 
+![Black Minimalist Corporate Staff Profile LinkedIn Banner](https://github.com/user-attachments/assets/7dd7e02e-9bd4-43b3-ba00-a5dadb00d2ec)
+
 Selam, Ben Hüseyin Mehmetoğlu!
 <br><br>
 - Şu anda .NET projeleriyle mobil uygulama geliştirme becerilerimi derinleştiriyorum.  <br>
